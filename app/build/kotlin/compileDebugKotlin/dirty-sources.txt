@@ -1,7 +1,0 @@
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/src/main/java/com/example/wordsapp/LetterAdapter.kt
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/src/main/java/com/example/wordsapp/MainActivity.kt
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/src/main/java/com/example/wordsapp/WordAdapter.kt
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/src/main/java/com/example/wordsapp/WordListFragment.kt
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/src/main/java/com/example/wordsapp/LetterListFragment.kt
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/build/generated/source/navigation-args/debug/com/example/wordsapp/LetterListFragmentDirections.kt
-/Users/hvaandres/AndroidStudioProjects/Words-App/app/build/generated/source/navigation-args/debug/com/example/wordsapp/WordListFragmentArgs.kt
