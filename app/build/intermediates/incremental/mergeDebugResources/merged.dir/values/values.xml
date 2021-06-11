@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <string-array name="words">
-        <item>aargh</item>
-        <item>about</item>
-        <item>acidic</item>
-        <item>acne</item>
-        <item>acrid</item>
-        <item>acute</item>
-        <item>alphabet</item>
+        <item>absorbency</item>
+        <item>ablation</item>
+        <item>above the fold</item>
+        <item>abrasion resistance</item>
+        <item>access control list</item>
+        <item>accordion fold</item>
+        <item>acurate screens</item>
         <item>anchor</item>
         <item>anecdote</item>
-        <item>animal</item>
-        <item>automobile</item>
+        <item>animation</item>
+        <item>adiction</item>
         <item>awesome</item>
         <item>back</item>
         <item>balloon</item>
@@ -641,7 +641,7 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <color name="black">#FF000000</color>
+    <color name="black">#FFFFFFFF</color>
     <color name="blue_200">#62A3FF</color>
     <color name="blue_700">#1675D1</color>
     <color name="blue_900">#004A9F</color>
@@ -702,6 +702,7 @@
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
+    <color name="ic_launcher_background">#1C9494</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -742,9 +743,9 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#0097A7</color>
-    <color name="teal_900">#006064</color>
+    <color name="teal_200">#1164b4</color>
+    <color name="teal_700">#1164b4</color>
+    <color name="teal_900">#1164b4</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
     <color name="white">#FFFFFFFF</color>
@@ -1234,7 +1235,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_switch_layout">Switch Layout</string>
-    <string name="app_name">Words</string>
+    <string name="app_name">Dictionary</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
